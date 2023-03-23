@@ -1,5 +1,3 @@
-import Notiflix from 'notiflix';
-
 const countryListEl = document.querySelector('.country-list');
 const cardEl = document.querySelector('.country-info');
 

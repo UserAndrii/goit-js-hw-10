@@ -45,7 +45,7 @@ export class Search {
 
     setTimeout(() => {
       this.input.focus();
-    }, 900);
+    }, 700);
   }
 
   close() {

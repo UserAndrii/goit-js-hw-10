@@ -1,5 +1,4 @@
 import Notiflix from 'notiflix';
-export { clearMarkup } from './country-markup'
 
 export function fetchCountries(country) {
   const BASIC_URL = 'https://restcountries.com/v3.1';
